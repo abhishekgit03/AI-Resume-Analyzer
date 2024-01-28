@@ -1,0 +1,11 @@
+google-generativeai
+streamlit
+grpcio
+python-dotenv
+unstructured
+pdf2image
+pdfminer.six
+pikepdf
+pypdf
+unstructured-inference
+langchain
